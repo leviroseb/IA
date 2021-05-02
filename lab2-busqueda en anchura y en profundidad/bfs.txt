@@ -1,0 +1,55 @@
+BFS-Nodo seleccionado: K
+Alumno: Jhon Ismael Flores Pacheco
+
+Paso 1
+Frontier: ['M']
+Reached: ['M']
+
+Paso 2
+Frontier: ['I', 'E']
+Reached: ['M', 'I', 'E']
+
+Paso 3
+Frontier: ['E', 'L', 'P']
+Reached: ['M', 'I', 'E', 'L', 'P']
+
+Paso 4
+Frontier: ['L', 'P', 'Z', 'R']
+Reached: ['M', 'I', 'E', 'L', 'P', 'Z', 'R']
+
+Paso 5
+Frontier: ['P', 'Z', 'R']
+Reached: ['M', 'I', 'E', 'L', 'P', 'Z', 'R']
+
+Paso 6
+Frontier: ['Z', 'R']
+Reached: ['M', 'I', 'E', 'L', 'P', 'Z', 'R']
+
+Paso 7
+Frontier: ['R', 'A', 'H']
+Reached: ['M', 'I', 'E', 'L', 'P', 'Z', 'R', 'A', 'H']
+
+Paso 8
+Frontier: ['A', 'H', 'W', 'N']
+Reached: ['M', 'I', 'E', 'L', 'P', 'Z', 'R', 'A', 'H', 'W', 'N']
+
+Paso 9
+Frontier: ['H', 'W', 'N', 'X', 'Y']
+Reached: ['M', 'I', 'E', 'L', 'P', 'Z', 'R', 'A', 'H', 'W', 'N', 'X', 'Y']
+
+Paso 10
+Frontier: ['W', 'N', 'X', 'Y', 'U', 'D']
+Reached: ['M', 'I', 'E', 'L', 'P', 'Z', 'R', 'A', 'H', 'W', 'N', 'X', 'Y', 'U', 'D']
+
+Paso 11
+Frontier: ['N', 'X', 'Y', 'U', 'D', 'Q', 'C']
+Reached: ['M', 'I', 'E', 'L', 'P', 'Z', 'R', 'A', 'H', 'W', 'N', 'X', 'Y', 'U', 'D', 'Q', 'C']
+
+Paso 12
+Frontier: ['X', 'Y', 'U', 'D', 'Q', 'C', 'B', 'G']
+Reached: ['M', 'I', 'E', 'L', 'P', 'Z', 'R', 'A', 'H', 'W', 'N', 'X', 'Y', 'U', 'D', 'Q', 'C', 'B', 'G']
+
+Paso 13
+Frontier: ['Y', 'U', 'D', 'Q', 'C', 'B', 'G']
+Reached: ['M', 'I', 'E', 'L', 'P', 'Z', 'R', 'A', 'H', 'W', 'N', 'X', 'Y', 'U', 'D', 'Q', 'C', 'B', 'G']
+
